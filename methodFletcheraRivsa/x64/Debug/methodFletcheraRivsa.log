@@ -1,0 +1,14 @@
+﻿  methodFletcheraRivsa.cpp
+C:\Users\mrsli\source\repos\methodFletcheraRivsa\methodFletcheraRivsa\methodFletcheraRivsa.cpp(18,27): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\mrsli\source\repos\methodFletcheraRivsa\methodFletcheraRivsa\methodFletcheraRivsa.cpp(20,33): warning C4244: инициализация: преобразование "double" в "size_t", возможна потеря данных
+C:\Users\mrsli\source\repos\methodFletcheraRivsa\methodFletcheraRivsa\methodFletcheraRivsa.cpp(61,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodFletcheraRivsa\methodFletcheraRivsa\methodFletcheraRivsa.cpp(61,70): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodFletcheraRivsa\methodFletcheraRivsa\methodFletcheraRivsa.cpp(61,103): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodFletcheraRivsa\methodFletcheraRivsa\methodFletcheraRivsa.cpp(83,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodFletcheraRivsa\methodFletcheraRivsa\methodFletcheraRivsa.cpp(83,69): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodFletcheraRivsa\methodFletcheraRivsa\methodFletcheraRivsa.cpp(122,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodFletcheraRivsa\methodFletcheraRivsa\methodFletcheraRivsa.cpp(123,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodFletcheraRivsa\methodFletcheraRivsa\methodFletcheraRivsa.cpp(133,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodFletcheraRivsa\methodFletcheraRivsa\methodFletcheraRivsa.cpp(142,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\mrsli\source\repos\methodFletcheraRivsa\methodFletcheraRivsa\methodFletcheraRivsa.cpp(109): warning C4172: возвращение адреса локальной или временной переменной : ans
+  methodFletcheraRivsa.vcxproj -> C:\Users\mrsli\source\repos\methodFletcheraRivsa\x64\Debug\methodFletcheraRivsa.exe
